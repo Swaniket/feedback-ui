@@ -1,29 +1,19 @@
 {
   "feedback": [
     {
-      "id": 1,
-      "rating": 10,
-      "text": "This is feedback item 1 coming from backend"
-    },
-    {
-      "id": 2,
-      "rating": 8,
-      "text": "This is feedback item 2 coming from backend"
-    },
-    {
-      "id": 3,
-      "rating": 5,
-      "text": "This is feedback item 3 coming from backend"
-    },
-    {
-      "text": "This is feedback item 4 coming Updated",
-      "rating": 5,
-      "id": 4
-    },
-    {
       "text": "Great Product",
       "rating": 7,
       "id": 5
+    },
+    {
+      "text": "Nice service, I got my issue resolved within 2 days.",
+      "rating": 9,
+      "id": 6
+    },
+    {
+      "text": "10 on 10. These guys makes the experience so easy.",
+      "rating": 10,
+      "id": 7
     }
   ]
 }
