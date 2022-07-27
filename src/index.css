@@ -92,7 +92,7 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
+  background: #3d3f57;
   color: #fff;
 }
 
@@ -101,7 +101,7 @@ header {
 }
 
 [type='radio']:checked ~ label {
-  background: #ff6a95;
+  background: #3d3f57;
   color: #fff;
 }
 
@@ -165,7 +165,7 @@ input:focus {
 }
 
 .btn-secondary {
-  background: #ff6a95;
+  background: #3d3f57;
 }
 
 .btn:hover {
@@ -205,7 +205,7 @@ input:focus {
 }
 
 .about-link a:hover {
-  color: #ff6a95;
+  color: #3d3f57;
 }
 
 .about h1 {
